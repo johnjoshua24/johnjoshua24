@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **canlas.johnjoshua24@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/johnjoshua24/johnjoshua24/blob/main/CANLAS%2CJOHNJOSHUA-CV.pdf](https://github.com/johnjoshua24/johnjoshua24/blob/main/CANLAS%2CJOHNJOSHUA-CV.pdf)
+- 📄 Know about my experiences [[https://github.com/johnjoshua24/johnjoshua24/blob/main/CANLAS%2CJOHNJOSHUA-CV.pdf](https://github.com/johnjoshua24/johnjoshua24/blob/main/johnjoshua-canlas-cv.pdf)]
   
 - 🌍 Visit my personal portfolio (https://jjdev-portfolio.vercel.app/)
 
